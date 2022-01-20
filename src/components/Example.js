@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Example() {
+function example () {
   return (
     <div>
       This is an example component!
     </div>
-  );
+  )
 }
 
-export default Example;
+export default example;
